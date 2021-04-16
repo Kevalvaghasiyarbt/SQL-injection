@@ -6,13 +6,13 @@ SQL injection is a web security weakness that helps an attacker to interfere wit
 application makes to its database. Generally, it helps an intruder to access data that they are not
 normally able to retrieve. This could include data belonging to other users or any other data that
 may be accessed by the program itself. In certain instances, the attacker can change or delete this.
-## Impact of the attack-
+## Impact of the attack -
 Effective SQL injection attacks can result in unauthorized access to sensitive data, such as
 passwords, credit card numbers, or personal user information. Many high-profile data breaches in
 recent years have resulted from SQL injection attacks, leading to credibility loss and regulatory
 penalties. In certain instances, the intruder will achieve a permanent loophole to the organization's
 processes, lea.
-## Tools Used-
+## Tools Used -
 Burp suite Pro, Sqlmap,
 ## Prevention of the attack –
 Parameterized queries may be used in any case where the untrusted input appears as data within
