@@ -13,7 +13,7 @@ recent years have resulted from SQL injection attacks, leading to credibility lo
 penalties. In certain instances, the intruder will achieve a permanent loophole to the organization's
 processes, lea.
 ## Tools Used -
-Burp suite Pro, Sqlmap,
+Burp suite Pro, Sqlmap
 ## Prevention of the attack –
 Parameterized queries may be used in any case where the untrusted input appears as data within
 the query, including the WHERE clause and values in the INSERT or UPDATE statement. They
